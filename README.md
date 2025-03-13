@@ -5,10 +5,10 @@ Welcome to this project combinig of Java web devlopment and AWS CI/CD tools
 <br>
 
 
-## Table of content
+## Table of content# 
 - [JAVA Web development with AWS CI/CD](#java-web-development-with-aws-cicd)
   - [Description](#description)
-  - [Table of content](#table-of-content)
+  - [Table of content#](#table-of-content)
   - [Introduction](#introduction)
   - [Technologies](#technologies)
     - [Setup](#setup)
